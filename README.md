@@ -1,4 +1,3 @@
-# 🧬 Genomics for All: Community Awareness Hub
 
 **Live Demo:** [https://marinaflausino.github.io/Genomics-for-all/](https://marinaflausino.github.io/Genomics-for-all/)
 
@@ -31,6 +30,10 @@ This project was developed utilizing clean, native web technologies without heav
  ┣ 📜 logo.png                 # Platform branding
  ┗ 📜 README.md                # Project documentation
 
+<<<<<<< HEAD
+=======
+## **Considerations**
+>>>>>>> 11e2fe3d8e954edfd1e73eeb80f5a1c774ff975c
 
 This project was managed using Agile principles. A Kanban board (via GitHub Projects) was utilized to structure the development lifecycle into four distinct sprints:
 
@@ -47,4 +50,8 @@ References: * Genomics Partnership Wales
 
 Swansea University Medical School
 
+<<<<<<< HEAD
 Developed by Marina Flausino as part of the Software Engineering Extension Project (PEX).
+=======
+Developed by Marina Flausino as part of the Software Engineering Extension Project (PEX).
+>>>>>>> 11e2fe3d8e954edfd1e73eeb80f5a1c774ff975c
