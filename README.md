@@ -30,6 +30,7 @@ This project was developed utilizing clean, native web technologies without heav
  ┣ 📜 logo.png                 # Platform branding
  ┗ 📜 README.md                # Project documentation
 
+## **Considerations**
 
 This project was managed using Agile principles. A Kanban board (via GitHub Projects) was utilized to structure the development lifecycle into four distinct sprints:
 
